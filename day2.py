@@ -13,7 +13,6 @@ balance = deposit
 print(f"You current balannce is : {balance}$")
 
 
-
 #2. Create a class called "Student" with attributes name and grade. Create a method within the class that allows you to update the student's grade. Create an instance of the class and test the method by updating the student's grade.
 
 class Student:
