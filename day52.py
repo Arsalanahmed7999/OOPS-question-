@@ -38,7 +38,8 @@ circle = Circle(5)
 # Create an instance for rectangle
 rectangle = Rectangle(5, 10)
 
-shapes = [circle, rectangle] # this shapes list now carries two object called circle and rectangle
+shapes = [circle, rectangle] 
+# this shapes list now carries two object called circle and rectangle
 
 for shape in shapes:
     print(shape.calculate_area())
